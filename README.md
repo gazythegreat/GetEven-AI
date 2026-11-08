@@ -1,4 +1,5 @@
 # Scam Detector
+**Get it:** [geteven.ai/detector](https://geteven.ai/detector) — what it checks, the verdict bands, and the free download.
 
 An agent skill (SKILL.md format) that screens a message — email, X (Twitter), Facebook/Messenger, Instagram/Threads, WhatsApp, Telegram, SMS/iMessage, or anything pasted in — and returns an **evidence-based scam verdict**.
 
